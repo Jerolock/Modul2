@@ -1,5 +1,5 @@
-def print_params(name):
-    print(name)
+def print_params():
+    print('бибики')
 
-print_params('Alex')
-print_params('Denis')
+print_params()
+print_params()
